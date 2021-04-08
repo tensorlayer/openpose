@@ -2,7 +2,7 @@ cython>=0.29
 numpy==1.16.4
 easydict>=1.9,<=1.10
 opencv-python>=3.4,<3.5
-tensorflow==2.3.1
+tensorflow==2.4.0
 tensorlayer==2.2.3
 pycocotools  # must be installed after cython and numpy are installed
 
